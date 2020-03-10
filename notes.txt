@@ -1,0 +1,7 @@
+    apiKey: "AIzaSyB2GWHnQGJupYnrxvOgJbY7rNOIjIgbF-E",
+    authDomain: "vue-auth-hbr-2020.firebaseapp.com",
+    databaseURL: "https://vue-auth-hbr-2020.firebaseio.com",
+    projectId: "vue-auth-hbr-2020",
+    storageBucket: "vue-auth-hbr-2020.appspot.com",
+    messagingSenderId: "1025659923891",
+    appId: "1:1025659923891:web:a32ecfec5bc02c241aafc6"
